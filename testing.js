@@ -1,0 +1,1 @@
+HTMLFormControlsCollection.log("Hello from testing.hs");
